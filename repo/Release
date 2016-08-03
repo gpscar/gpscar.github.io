@@ -1,11 +1,11 @@
-Origin: uroboro's repository
-Label: uroboro's repo
+Origin: George Sourial's repo
+Label: George Sourial's repo
 Suite: stable
 Version: 0.1
-Codename: uroboronest
+Codename: george@sourial.xyz
 Architectures: iphoneos-arm
 Components: main
-Description: A rather circular repository
+Description: George Sourial's repo
 MD5Sum:
  aaf18c5b80439aed49f3cd0294fceb6d 13784 Packages
  07ee1e88fdb1222ca564dd65b9222c96 2474 Packages.bz2
